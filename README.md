@@ -1,0 +1,2 @@
+# SmartShoppingCart
+assignment for ADP 
